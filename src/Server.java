@@ -49,7 +49,7 @@ public class Server extends JFrame {
         String line = null;
         String[] buffer = null;
         int rank=1;
-        textArea.append("------- SCORE BOARD --------\n");
+        textArea.append(" <<<<<<<   GALAGA   >>>>>>> \n------- SCORE BOARD --------\n\n");
         while( (line = br.readLine()) != null ) {
             if(rank>10)
                 break;
