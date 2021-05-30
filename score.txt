@@ -1,11 +1,11 @@
+june_hee,5450
 kwon,4850
 hee,3300
 june,1750
 hello,1500
-hello,1450
+june_hee,1450
 hello,1000
 hello,850
 hello,750
 hello,600
 hello,400
-june,350

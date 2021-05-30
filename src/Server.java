@@ -49,10 +49,12 @@ public class Server extends JFrame {
         String line = null;
         String[] buffer = null;
         int rank=1;
+        textArea.append("------- SCORE BOARD --------\n");
         while( (line = br.readLine()) != null ) {
             if(rank>10)
                 break;
             if (isInit == true) {
+
                 buffer = line.split(",");
                 scoreMap.put(Integer.parseInt(buffer[1]), buffer[0]);
             }
