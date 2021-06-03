@@ -1,11 +1,11 @@
-june_hee,5450
-kwon,4850
-hee,3300
-june,1750
-hello,1500
-june_hee,1450
-hello,1000
-hello,850
-hello,750
-hello,600
-hello,400
+junwon lee,4100
+Junhee Kwon,3550
+Yoon hee,3500
+namwook go,3000
+Elio,2500
+jaeyoon song,2400
+sungyoon jung,2000
+KATE,1250
+tim,750
+dongryeol shin,550
+nobody,0

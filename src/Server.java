@@ -14,7 +14,7 @@ public class Server extends JFrame {
     // 서버 윈도우
     public Server() throws IOException {
         // 윈도우 제목
-        setTitle("서버");
+        setTitle("GALAGA SERVER");
 
         // 서버 종료 버튼
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -59,7 +59,7 @@ public class Server extends JFrame {
                 scoreMap.put(Integer.parseInt(buffer[1]), buffer[0]);
             }
             buffer = line.split(",");
-            textArea.append("RANK  "+rank+"  :  "+buffer[0].toUpperCase()+"   "+buffer[1].toUpperCase() + "\n");
+            textArea.append("RANK "+rank+" : "+buffer[0].toUpperCase()+"  "+buffer[1].toUpperCase() + "\n");
             rank++;
         }
     }
