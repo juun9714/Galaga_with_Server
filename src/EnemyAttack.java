@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class EnemyAttack {
+public class EnemyAttack extends Thread{
     //enemy의 총알
     Image image = new ImageIcon("src/images/enemy_attack.png").getImage();
 

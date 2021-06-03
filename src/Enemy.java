@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Enemy {
+public class Enemy extends Thread{
     //Enemy의 위치 정보, 체력
     Image image = new ImageIcon("src/images/enemy.png").getImage();
     int x,y;

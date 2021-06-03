@@ -140,6 +140,7 @@ public class Game extends Thread{
 
         if(shooting && cnt % 3 ==0){
             //cnt는 0.02초마다 1씩 증가한다. -> 0.14초마다 총알이 나간다.
+
             playerAttack=new PlayerAttack(playerX,playerY);
             //FIX
             playerAttackList.add(playerAttack);

@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class PlayerAttack {
+public class PlayerAttack extends Thread{
     //플레이어의 총알을 구현
     Image image = new ImageIcon("src/images/player_attack.png").getImage();
     int x, y;

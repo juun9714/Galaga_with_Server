@@ -1,11 +1,11 @@
 junwon lee,4100
-Junhee Kwon,3550
-Yoon hee,3500
-namwook go,3000
-Elio,2500
-jaeyoon song,2400
-sungyoon jung,2000
-KATE,1250
-tim,750
+jaeyoon song,3550
+sungyoon jung,3500
+aryeong no,3000
+yoenjung moon,2500
+junehee kwon,2400
+namwook go,2000
+00,1700
+yoojin cha,1250
+yeonjoo nam,750
 dongryeol shin,550
-nobody,0
